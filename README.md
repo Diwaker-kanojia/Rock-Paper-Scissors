@@ -4,6 +4,8 @@ A simple **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.
 Players can choose between Rock, Paper, or Scissors, and the computer will randomly select its move.  
 The game keeps track of **wins, losses, and draws** using **localStorage**, so your progress is saved even after refreshing the page.  
 
+## <a href="">Live Link</a>
+
 ## ✨ Features  
 - 🎲 Random computer choice  
 - 🖱️ Interactive UI with icons  
@@ -22,9 +24,4 @@ The game keeps track of **wins, losses, and draws** using **localStorage**, so y
 - **JavaScript (ES6)**  
 
 ## 📸 Demo  
-![Game Screenshot](assest/userInterface.png)  
-
----
-
-👨‍💻 **Author**  
-Made with ❤️ by Diwaker
+![Game Screenshot](assets/userInterface.png)  
